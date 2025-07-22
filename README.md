@@ -87,8 +87,6 @@ Backend: Express.js + MongoDB
 
 Wallet Integration: MetaMask via WalletConnect
 
-Smart Contract: Solidity + Primordial Testnet
-
 State Management: React Context API
 
 📄 License
