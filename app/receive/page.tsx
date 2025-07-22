@@ -49,6 +49,7 @@ export default function ReceivePage() {
       copyAddress()
     }
   }
+  // downloadqr
 
   const downloadQR = () => {
     toast({
@@ -60,6 +61,8 @@ export default function ReceivePage() {
   const openFaucet = () => {
     window.open("https://primordial.bdagscan.com/faucet?chain=EVM", "_blank")
   }
+
+  
 
   if (!isConnected) {
     return (
@@ -74,6 +77,7 @@ export default function ReceivePage() {
       </div>
     )
   }
+
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-orange-50 to-white">
@@ -133,6 +137,7 @@ export default function ReceivePage() {
                     <Download className="h-4 w-4 mr-2" />
                     Download QR
                   </Button>
+                 
                 </div>
               </CardContent>
             </Card>
