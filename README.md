@@ -1,4 +1,4 @@
-# PRIMONPAY
+# Transkt
 
 _Empowering Seamless UPI-Style Crypto Transfers with Decentralized Infrastructure_
 
