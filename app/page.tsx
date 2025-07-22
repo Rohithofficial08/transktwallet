@@ -91,7 +91,7 @@ export default function Dashboard() {
                     <ArrowUpRight className="h-4 w-4 text-red-500" />
                     <span className="text-sm text-gray-600">Sent Today</span>
                   </div>
-                  <span className="font-semibold">0.05 ETH</span>
+                  <span className="font-semibold">0.05 BDAG</span>
                 </div>
                 <Separator />
                 <div className="flex items-center justify-between">
@@ -100,7 +100,7 @@ export default function Dashboard() {
                     <span className="text-sm text-gray-600">Net Change</span>
                   </div>
                   <Badge variant="secondary" className="bg-green-100 text-green-800">
-                    +0.10 ETH
+                    +0.10 BDAG
                   </Badge>
                 </div>
                 <Separator />
