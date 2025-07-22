@@ -21,11 +21,11 @@ _Empowering Seamless UPI-Style Crypto Transfers with Decentralized Infrastructur
 
 ## 📌 Overview
 
-**PrimonPay** is a UPI-style crypto transaction system that enables users to send, receive, and manage digital tokens seamlessly across wallets. Designed with Web3 in mind, this decentralized wallet toolkit is built with React, Next.js, TypeScript, and supports QR-based transfers and blockchain logging.
+**Transkt** is a UPI-style crypto transaction system that enables users to send, receive, and manage digital tokens seamlessly across wallets. Designed with Web3 in mind, this decentralized wallet toolkit is built with React, Next.js, TypeScript, and supports QR-based transfers and blockchain logging.
 
 ---
 
-## ❓ Why PrimonPay?
+## ❓ Why Transkt?
 
 This project aims to solve real-world pain points in current crypto wallets:
 
@@ -76,7 +76,7 @@ Run the app locally:
 npm start
 
 ✅ Testing
-Note: Replace {test_framework} with your actual test framework (e.g., Jest or Vitest).
+Note: Replace {test_framework} with your actual test framework.
 
 npm test
 
@@ -90,8 +90,6 @@ Wallet Integration: MetaMask via WalletConnect
 Smart Contract: Solidity + Primordial Testnet
 
 State Management: React Context API
-
-QR Code: qrcode.react for generation and scanning
 
 📄 License
 This project is licensed under the MIT License.
