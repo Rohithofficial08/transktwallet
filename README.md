@@ -2,12 +2,6 @@
 
 _Empowering Seamless UPI-Style Crypto Transfers with Decentralized Infrastructure_
 
-![last commit](https://img.shields.io/github/last-commit/SanthoshKumar-Official/primonpay?style=flat-square)
-![typescript](https://img.shields.io/badge/typescript-98%25-blue?style=flat-square)
-![languages](https://img.shields.io/github/languages/count/SanthoshKumar-Official/primonpay?style=flat-square)
-
----
-
 ### Built with the tools and technologies:
 
 ![JSON](https://img.shields.io/badge/-JSON-black?style=flat-square)
