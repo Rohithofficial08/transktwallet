@@ -35,7 +35,7 @@ export function Navigation() {
             <Link href="/" className="flex items-center space-x-2">
               <Wallet className="h-8 w-8 text-primary" />
               <div>
-                <span className="text-xl font-bold text-gray-900">Translate</span>
+                <span className="text-xl font-bold text-gray-900">Transkt</span>
                 <div className="text-xs text-gray-500">Web3 DApp</div>
               </div>
             </Link>

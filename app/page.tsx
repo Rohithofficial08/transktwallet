@@ -40,7 +40,7 @@ export default function Dashboard() {
           <div className="flex flex-col items-center justify-center min-h-[80vh] text-center">
             <div className="mb-8">
               <Wallet className="h-16 w-16 text-primary mx-auto mb-4" />
-              <h1 className="text-4xl font-bold text-gray-900 mb-2">Translate Wallet DApp</h1>
+              <h1 className="text-4xl font-bold text-gray-900 mb-2">Transkt Wallet DApp</h1>
               <p className="text-xl text-gray-600 mb-4">Web3 Crypto Wallet</p>
               <p className="text-gray-500 mb-8">Connect your MetaMask wallet to get started</p>
 
@@ -65,7 +65,7 @@ export default function Dashboard() {
       <div className="container mx-auto px-4 py-8">
         <div className="mb-8">
           <h1 className="text-3xl font-bold text-gray-900 mb-2">Dashboard</h1>
-          <p className="text-gray-600">Welcome to your Translate wallet dashboard</p>
+          <p className="text-gray-600">Welcome to your Transkt wallet dashboard</p>
         </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 mb-8">

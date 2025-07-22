@@ -8,8 +8,8 @@ import { Toaster } from "@/components/ui/toaster"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Translate Wallet DApp - Web3 Wallet",
-  description: "Connect your wallet and manage your crypto with Translate",
+  title: "Transkt Wallet DApp - Web3 Wallet",
+  description: "Connect your wallet and manage your crypto with Transkt",
     generator: 'v0.dev'
 }
 

@@ -163,7 +163,7 @@ export function WalletProvider({ children }: { children: ReactNode }) {
 
       toast({
         title: "✅ Wallet Connected!",
-        description: `${walletAddress.slice(0, 6)}...${walletAddress.slice(-4)} connected to Translate`,
+        description: `${walletAddress.slice(0, 6)}...${walletAddress.slice(-4)} connected to Transkt`,
       })
 
       // Simulate a welcome received transaction after 3 seconds
@@ -203,7 +203,7 @@ export function WalletProvider({ children }: { children: ReactNode }) {
     clearCache()
     toast({
       title: "🔌 Wallet Disconnected",
-      description: "Successfully disconnected from Translate",
+      description: "Successfully disconnected from Transkt",
     })
   }
 
