@@ -63,7 +63,7 @@ This project requires the following dependencies:
 1. **Clone the repository**
 
 
-git clone https://github.com/Rohithoffical08/transktwallet.git
+git clone https://github.com/Rohithofficial08/transktwallet.git
 Navigate to the project directory
 
 cd transktwallet
